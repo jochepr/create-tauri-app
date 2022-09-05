@@ -50,7 +50,7 @@ With PNPM:
 pnpm create tauri-app
 ```
 
-You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
+You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Svelte project, run:
 
 ```bash
 # curl
